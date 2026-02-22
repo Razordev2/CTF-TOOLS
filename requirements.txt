@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+colorama
+pillow
+qrcode
+reportlab
+flask
+pycryptodome
+pyelftools
+pefile
+capstone
+python-whois
+dnspython
+phonenumbers
+shodan
